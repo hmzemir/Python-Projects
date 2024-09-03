@@ -1,0 +1,1 @@
+Basit bir WhatsApp Botu. Numara, tarih, saat ve gönderici ismi girerek istediğiniz zaman otomatik mesaj gönderebilirsiniz. WhatsApp Web üzerinden çalışır. QR kodu okutmuş olmanız gerekir mesaj gönderebilirsin için. Giriş yaptıktan sonra sayfanın açık olmasına gerek yoktur. Seçilen tarih ve saatte kişiye mesajı gönderdikten sonra siteyi otomatik olarak kapatır ve oturumdan çıkar.
